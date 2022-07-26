@@ -23,6 +23,7 @@ const polybiusModule = (function () {
 
     //Compare input array to alphabet grid and convert to numbers, or reverse if decrypting
     return makeEncodedArray(inputArray, encode).join("")
+    //return encode ? makeEncodedArray(inputArray).join("") : makeDecodedArray(inputArray).join("")
   }
 
 
