@@ -21,4 +21,4 @@ I may one day update it to reflect my current skills but I'm still proud of the 
 ![image](https://user-images.githubusercontent.com/76602007/192027308-baae96f6-f0d9-43ea-8b19-d20b08b20cc2.png)
 
 ## Technology
-JavaScript, HTML, CSS, JSON, Node Package Manager, Mocha
+JavaScript, HTML, CSS, JSON, Node Package Manager, Mocha, Chai
