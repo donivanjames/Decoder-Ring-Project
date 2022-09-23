@@ -3,7 +3,10 @@ Encrypts and decrypts data using the Polybius Square, Caesar Shift, and Substitu
 
 # Notes
 A project from when I was originally learning JavaScript. <br>
-I may update it to reflect my current skills but I'm still proud of the work that went into it.
+I may one day update it to reflect my current skills but I'm still proud of the work that went into it.
+
+# Use
+Simply enter your message, follow the steps, and select submit!
 
 # Polybius Square
 ![image](https://user-images.githubusercontent.com/76602007/192026004-82d3346b-8e10-41f7-bc42-2c08698611cf.png)
